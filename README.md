@@ -6,7 +6,7 @@
 
 ### Assignments
 
-**1.1:** Create a code to check difference between `null` and `undefined` data type. Also check their type using `typeof`.
+**1.1:** Write a code to check difference between `null` and `undefined` data type. Also check their type using `typeof`.
 
 **1.2:** Which type of variables (var, let or const) must be **initialized** at the time of declaration?
 
